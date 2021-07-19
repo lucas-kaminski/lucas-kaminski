@@ -10,25 +10,19 @@
 🔧 Git, SQL, NoSql, TDD, etc... <br/>
 🌱 Minimalista e vegan <br/>
 
+🖼 [Visite o meu portfolio](http://www.lucaskaminski.com.br/)
+
 ### Sociais
 
-<a href="https://www.linkedin.com/in/lucas-kaminski/" target='_blank'>
+<a href="https://www.linkedin.com/in/lucas-kaminski/" target="_blank">
   <img align="left" alt="Lucas Kaminski Linkdein" src="./icons/icons8-linkedin-48.png" />
 </a>
-<a href="www.instagram.com/kaminskizada" target='_blank'>
+<a href="www.instagram.com/kaminskizada" target="_blank">
   <img align="left" alt="Lucas Kaminski Instagram" src="./icons/icons8-instagram-48.png" />
 </a>
-<a href="https://api.whatsapp.com/send?phone=5541998119091" target='_blank'>
+<a href="https://api.whatsapp.com/send?phone=5541998119091" target="_blank">
   <img align="left" alt="Lucas Kaminski Whatsapp" src="./icons/icons8-whatsapp-48.png" />
 </a>
-<a href="https://github.com/lucas-kaminski" target='_blank'>
+<a href="https://github.com/lucas-kaminski" target="_blank">
   <img align="left" alt="Lucas Kaminski Github" src="./icons/icons8-github-2-48.png" />
 </a>
-<br/>
-<br/>
-
-### Saiba mais
-
-[Visite o meu portfolio](http://www.lucaskaminski.com.br/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-kaminski&exclude_repo=Faculdade,Python,Projetos,PLN)](https://github.com/lucas-kaminski)
