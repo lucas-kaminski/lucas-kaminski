@@ -1,8 +1,6 @@
 # Hello World 💻
 
-## [![Mail Badge](https://img.shields.io/badge/-lucas.kssilveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@gmail.com)](mailto:lucas.kssilveira@gmail.com)
-
-### Olá, eu sou o Lucas Kaminski!
+## Opa, beleza? Eu sou o Lucas Kaminski!
 
 - 📒 4º semestre de Engenharia da Computação na PUCPR | 5º semestre de Ciência de Dados e Inteligência Artifical na UNIDOMBOSCO
 - 💼 Estagiário Desenvolvedor Full Stack na [Excel Solutions](https://www.excelsolutions.com.br/)
@@ -14,13 +12,14 @@
 ### Sociais
 
 <a href="https://www.linkedin.com/in/lucas-kaminski/">
-  <img align="left" alt="Lucas Kaminski Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Lucas Kaminski Linkdein" width="22px" height="22px" src="./icons/linked.png" />
 </a>
 <a href="https://github.com/lucas-kaminski">
-  <img align="left" alt="Lucas Kaminski Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Lucas Kaminski Github" width="22px" height="22px" src="./icons/git32.png" />
 </a>
+
+-
 
 ### More about
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-kaminski)](https://github.com/lucas-kaminski)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
