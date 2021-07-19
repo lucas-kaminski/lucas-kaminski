@@ -2,13 +2,13 @@
 
 ### Opa, beleza? Eu sou o Lucas Kaminski!
 
-📒 4º semestre de Engenharia da Computação na PUCPR
-📕 5º semestre de Ciência de Dados e Inteligência Artifical na UNIDOMBOSCO
-💼 Estagiário Desenvolvedor Full Stack na [Excel Solutions](https://www.excelsolutions.com.br/)
-👨‍💻 Atualmente focado em ferramentas do JavaScript como Node, React, Express.js, ORM, Jest, etc...
-📈 Conhecimento em Python e suas principais ferramentas para IA e Data Science
-🔧 Git, SQL, NoSql, TDD, etc...
-🌱 Minimalista e vegan
+📒 4º semestre de Engenharia da Computação na PUCPR <br/>
+📕 5º semestre de Ciência de Dados e Inteligência Artifical na UNIDOMBOSCO <br/>
+💼 Estagiário Desenvolvedor Full Stack na [Excel Solutions](https://www.excelsolutions.com.br/) <br/>
+👨‍💻 Atualmente focado em ferramentas do JavaScript como Node, React, Express.js, ORM, Jest, etc... <br/>
+📈 Conhecimento em Python e suas principais ferramentas para IA e Data Science <br/>
+🔧 Git, SQL, NoSql, TDD, etc... <br/>
+🌱 Minimalista e vegan <br/>
 
 ### Sociais
 
@@ -25,9 +25,10 @@
   <img align="left" alt="Lucas Kaminski Github" src="./icons/icons8-github-2-48.png" />
 </a>
 <br/>
+<br/>
 
 ### Saiba mais
 
 [Visite o meu portfolio](http://www.lucaskaminski.com.br/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-kaminski)](https://github.com/lucas-kaminski)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-kaminski&exclude_repo=Faculdade,Python,Projetos,PLN)](https://github.com/lucas-kaminski)
