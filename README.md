@@ -13,10 +13,16 @@
 ### Sociais
 
 <a href="https://www.linkedin.com/in/lucas-kaminski/">
-  <img align="left" alt="Lucas Kaminski Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Linkedin_glyph_svg-512.png " />
+  <img align="left" alt="Lucas Kaminski Linkdein" src="./icons/icons8-linkedin-32.png" />
 </a>
 <a href="www.instagram.com/kaminskizada">
-  <img align="left" alt="Lucas Kaminski Instagram" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-512.png" />
+  <img align="left" alt="Lucas Kaminski Instagram" src="./icons/icons8-instagram-32.png" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=5541998119091">
+  <img align="left" alt="Lucas Kaminski Whatsapp" src="./icons/icons8-whatsapp-32.png" />
+</a>
+<a href="https://github.com/lucas-kaminski">
+  <img align="left" alt="Lucas Kaminski Github" src="./icons/icons8-github-32.png" />
 </a>
 <br/>
 
