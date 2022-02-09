@@ -21,6 +21,3 @@
 <a href="https://api.whatsapp.com/send?phone=5541998119091" target="_blank">
   <img align="left" alt="Lucas Kaminski Whatsapp" src="./icons/icons8-whatsapp-48.png" />
 </a>
-<a href="https://www.github.com/lucas-kaminski" target="_blank">
-  <img align="left" alt="Lucas Kaminski Github" src="./icons/icons8-github-2-48.png" />
-</a>
