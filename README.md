@@ -1,21 +1,19 @@
 # Hello World 💻
 
-### Opa, beleza? Eu sou o Lucas Kaminski!
+### Bem vindo ao meu github, eu sou o Lucas Kaminski! 
 
-📒 4º semestre de Engenharia da Computação na PUCPR <br/>
-📕 5º semestre de Ciência de Dados e Inteligência Artifical na UNIDOMBOSCO <br/>
-💼 Estagiário Desenvolvedor Full Stack na [Excel Solutions](https://www.excelsolutions.com.br/) <br/>
-👨‍💻 Atualmente focado em ferramentas do JavaScript como Node, React, Express.js, ORM, Jest, etc... <br/>
+📒 5º semestre de Engenharia da Computação na PUCPR <br/>
+📕 6º semestre de Ciência de Dados e Inteligência Artifical na UNIDOMBOSCO <br/>
+💼 Desenvolvedor back-end na [Siemens AG](https://new.siemens.com/br/pt.html) <br/>
+👨‍💻 Atualmente focado em ferramentas do JavaScript como Node, React, Express, Jest, etc... <br/>
 📈 Conhecimento em Python e suas principais ferramentas para IA e Data Science <br/>
 🔧 Git, SQL, NoSql, TDD, etc... <br/>
-🌱 Minimalista e vegan <br/>
-
-🖼 [Visite o meu portfolio](http://www.lucaskaminski.com.br/)
+🌱 Vegan & minimalist <br/>
 
 ### Sociais
 
 <a href="https://www.linkedin.com/in/lucas-kaminski/" target="_blank">
-  <img align="left" alt="Lucas Kaminski Linkdein" src="./icons/icons8-linkedin-48.png" />
+  <img align="left" alt="Lucas Kaminski LinkedIn" src="./icons/icons8-linkedin-48.png" />
 </a>
 <a href="https://www.instagram.com/kaminskizada" target="_blank">
   <img align="left" alt="Lucas Kaminski Instagram" src="./icons/icons8-instagram-48.png" />
