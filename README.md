@@ -2,9 +2,9 @@
 
 ### Bem vindo ao meu github, eu sou o Lucas Kaminski! 
 
+💼 Desenvolvedor back-end na [Siemens AG](https://new.siemens.com/br/pt.html) <br/>
 📒 5º semestre de Engenharia da Computação na PUCPR <br/>
 📕 6º semestre de Ciência de Dados e Inteligência Artifical na UNIDOMBOSCO <br/>
-💼 Desenvolvedor back-end na [Siemens AG](https://new.siemens.com/br/pt.html) <br/>
 👨‍💻 Atualmente focado em ferramentas do JavaScript como Node, React, Express, Jest, etc... <br/>
 📈 Conhecimento em Python e suas principais ferramentas para IA e Data Science <br/>
 🔧 Git, SQL, NoSql, TDD, etc... <br/>
