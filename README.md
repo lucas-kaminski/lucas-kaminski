@@ -15,9 +15,6 @@
 <a href="https://www.linkedin.com/in/lucas-kaminski/" target="_blank">
   <img align="left" alt="Lucas Kaminski LinkedIn" src="./icons/icons8-linkedin-48.png" />
 </a>
-<a href="https://www.instagram.com/kaminskizada" target="_blank">
-  <img align="left" alt="Lucas Kaminski Instagram" src="./icons/icons8-instagram-48.png" />
-</a>
 <a href="https://api.whatsapp.com/send?phone=5541998119091" target="_blank">
   <img align="left" alt="Lucas Kaminski Whatsapp" src="./icons/icons8-whatsapp-48.png" />
 </a>
