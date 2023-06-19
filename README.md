@@ -1,8 +1,6 @@
 # Hello World 💻
 
-### Bem vindo ao meu github, eu sou o Lucas Kaminski! 
-
-💼 Desenvolvedor back-end na [WTLL](https://wtlltech.com/) <br/>
+💼 Desenvolvedor back-end na [Financial Move](https://financialmove.com.br/) <br/>
 📒 6º semestre de Engenharia da Computação na PUCPR <br/>
 📕 8º semestre de Ciência de Dados e Inteligência Artifical na UNIDOMBOSCO <br/>
 👨‍💻 Atualmente estudando o mundo de back-end e banco de dados <br/>
