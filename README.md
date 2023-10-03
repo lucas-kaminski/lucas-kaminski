@@ -47,7 +47,7 @@ Aqui uma lista de projetos que acho interessante compartilhar.
 | <a href="https://github.com/lucas-kaminski/express-soap-rest-server-example" target="_blank">SOAP & REST</a> | Exemplo de um servidor Express que interpreta requisições SOAP e REST |
 
 <p align="justify">
-Se quiser entrar em contato, pode se conectar no <a href="#">LinkedIn</a> comigo, mandar uma mensagem no <a href="#">WhatsApp</a> ou um e-mail para <a href="mailto:lucas.kssilveira@gmail.com">lucas.kssilveira@gmail</a>, sempre estou aberto a novas oportunidades e desafios.
+Sinta-se confortável para entrar em contato, pode se conectar no <a href="#">LinkedIn</a>, mandar uma mensagem no <a href="#">WhatsApp</a> ou um e-mail para <a href="mailto:lucas.kssilveira@gmail.com">lucas.kssilveira@gmail</a>, novas oportunidades e desafios são sempre bem-vindos.
 </p>
 
 ~ <a href="#">lucas-kaminski.dev.br</a>
