@@ -1,4 +1,4 @@
-<img align="right" src="./icons/planet.gif" width="170px" height="170px" alt="Planeta" />
+<img align="right" src="./img/planet.gif" width="170px" height="170px" alt="Planeta" />
 
 ### Olá Mundo!
 
@@ -28,16 +28,26 @@ Acadêmico em <a href="https://unidombosco.edu.br/cursos/ead/ciencia-de-dados-e-
 
 ---
 
-<br/>
-
 <p align="justify">
-Vivendo diariamente uma rotina de Product Owner, lido com a gestão de projetos, pessoas e processos de uma equipe de desenvolvimento em evolução.
+Vivo diariamente a rotina de um Product Owner, lidando com a gestão de projetos, pessoas e processos de uma equipe de desenvolvimento em evolução e crescimento.
 </p>
 
 <p align="justify">
-Enquanto  desenvolvedor, tenho uma atuação Full Cycle em diversos sistemas. Gosto da dinamicidade de poder atuar em todas as etapas de um projeto, desde a sua concepção para além de sua entrega, com a manutenção e suporte direto com o cliente.
+Enquanto  desenvolvedor, tenho atuação Full Cycle em diversos sistemas. Gosto da dinamicidade de poder trabalhar em todas as etapas de um projeto, desde a sua concepção para além de sua entrega, com a manutenção e suporte direto com o cliente.
 </p>
 
 <p align="justify">
-Um árduo defensor da qualidade de código e manutenabilidade! Ter um código limpo, com boas práticas, padrões, testes e documentação é essencial para a vida de um sistema.
+Aqui uma lista de projetos que acho interessante compartilhar.
 </p>
+
+| Projeto                                                                                                      | Descrição                                                             |
+| ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| <a href="https://github.com/lucas-kaminski/express-soap-rest-server-example" target="_blank">SOAP & REST</a> | Exemplo de um servidor Express que interpreta requisições SOAP e REST |
+| <a href="https://github.com/lucas-kaminski/express-soap-rest-server-example" target="_blank">SOAP & REST</a> | Exemplo de um servidor Express que interpreta requisições SOAP e REST |
+| <a href="https://github.com/lucas-kaminski/express-soap-rest-server-example" target="_blank">SOAP & REST</a> | Exemplo de um servidor Express que interpreta requisições SOAP e REST |
+
+<p align="justify">
+Se quiser entrar em contato, pode se conectar no <a href="#">LinkedIn</a> comigo, mandar uma mensagem no <a href="#">WhatsApp</a> ou um e-mail para <a href="mailto:lucas.kssilveira@gmail.com">lucas.kssilveira@gmail</a>, sempre estou aberto a novas oportunidades e desafios.
+</p>
+
+~ <a href="#">lucas-kaminski.dev.br</a>
