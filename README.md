@@ -1,4 +1,6 @@
-<img align="right" src="./img/planet.gif" width="170px" height="170px" alt="Planeta" />
+<a href="https://deep-fold.itch.io/pixel-planet-generator" target="_blank">
+  <img align="right" src="./img/planet.gif" width="170px" height="170px" alt="Quase um planeta Terra"/>
+</a>
 
 ### Olá Mundo!
 
