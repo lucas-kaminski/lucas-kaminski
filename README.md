@@ -47,7 +47,6 @@ Aqui uma lista de projetos que acho interessante compartilhar.
 | <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | Bot no Telegram desenvolvido para a Financial Move.                                |
 | <a href="#">Cryptotraders</a>                                                                                              | ...                                                                                |
 | <a href="https://www.siemens.com/global/en/products/energy/grid-software/operation/grid-control.html">SP7 Grid Control</a> | Software de controle de subestações elétricas que atuei como desenvolvedor.        |
-| <a href="https://github.com/lucas-kaminski/express-soap-rest-server-example">SOAP & REST</a>                               | Repositório exemplo de um servidor Express que interpreta requisições SOAP e REST. |
 
 <p align="justify">
 Sinta-se confortável para entrar em contato, pode se conectar no <a href="https://www.linkedin.com/in/lucas-kaminski/">LinkedIn</a>, mandar uma mensagem no <a href="https://api.whatsapp.com/send/?phone=5541998119091&text=Estava+vendo+seu+perfil+no+github+e+gostaria+de+entrar+em+contato.&type=phone_number&app_absent=0">WhatsApp</a> ou um e-mail para <a href="mailto:lucas.kssilveira@gmail.com">lucas.kssilveira@gmail</a>, novas oportunidades e desafios são sempre bem-vindos.
