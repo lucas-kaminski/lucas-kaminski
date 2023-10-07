@@ -12,7 +12,7 @@ Entusiasta de tecnologia, apaixonado por desenvolvimento, jogos e a vida do noss
 
 <p>
 <em>
-Dedicado atualmente em Back End e Inteligência Artificial;
+Dedicando meus estudos atualmente na linguagem Java;
 </em>
 </p>
 
