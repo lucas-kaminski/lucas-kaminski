@@ -50,8 +50,7 @@ Here is a list of projects that I think are interesting to share:
 | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | Telegram bot that I developed for Financial Move.                                         |
 | <a href="https://www.siemens.com/global/en/products/energy/grid-software/operation/grid-control.html">SP7 Grid Control</a> | Software for controlling electrical substations that I worked on as a back end developer. |
-| <a href=".js-pinned-items-reorder-container"> Pinned items</a>                                                             | A list of pinned repositories that I think are interesting to share.                      |
-| <a href="https://www.lucas-kaminski.me"> Personal website</a>                                                              | A portfolio website that I developed to share my projects and experiences.                |
+| <a href="https://www.lucas-kaminski.me">Personal website</a>                                                               | A portfolio website that I developed to share my projects and experiences.                |
 
 <p align="justify">
 Feel free to get in touch, you can connect on <a href="https://www.linkedin.com/in/lucas-kaminski/">LinkedIn</a>, send a message on <a href="https://api.whatsapp.com/send/?phone=5541998119091">WhatsApp</a> or an e-mail to <a href="mailto:lucas.kssilveira@gmail.com">lucas.kssilveira@gmail</a>, new opportunities and challenges are always welcome!
