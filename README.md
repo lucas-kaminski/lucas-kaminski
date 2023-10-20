@@ -10,13 +10,13 @@
 
 <p>
 <em>
-Tech entusiast, passionate about development, games and the life of our planet. #govegan;
+Tech entusiast, passionate about development, games and the life of our planet; #govegan!
 </em>
 </p>
 
 <p>
 <em>
-Actually studying Java focused on a back-end development;
+Studying Java focused on a back-end development;
 </em>
 </p>
 
