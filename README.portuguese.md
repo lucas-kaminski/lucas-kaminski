@@ -50,7 +50,7 @@ Aqui uma lista de projetos que acho interessante compartilhar:
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | Bot do Telegram que desenvolvi para a Financial Move.                                          |
 | <a href="https://www.siemens.com/global/en/products/energy/grid-software/operation/grid-control.html">SP7 Grid Control</a> | Software para controle de subestações elétricas no qual trabalhei como desenvolvedor back-end. |
-| <a href="#js-pinned-items-reorder-container"> Pinned items</a>                                                             | Uma lista de repositórios fixados que eu acho interessante compartilhar.                       |
+| <a href=".js-pinned-items-reorder-container"> Pinned items</a>                                                             | Uma lista de repositórios fixados que eu acho interessante compartilhar.                       |
 | <a href="https://www.lucas-kaminski.me"> Personal website</a>                                                              | Um portfólio que eu desenvolvi para compartilhar meus projetos e experiências.                 |
 
 <p align="justify">
