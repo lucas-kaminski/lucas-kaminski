@@ -46,7 +46,7 @@ In a developer role, I have Full Cycle performance in several systems. I like th
 Here is a list of projects that I think are interesting to share:
 </p>
 
-| Projeto                                                                                                                    | Descrição                                                                                 |
+| Project                                                                                                                    | Description                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | Telegram bot that I developed for Financial Move.                                         |
 | <a href="https://www.siemens.com/global/en/products/energy/grid-software/operation/grid-control.html">SP7 Grid Control</a> | Software for controlling electrical substations that I worked on as a back end developer. |
