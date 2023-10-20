@@ -3,9 +3,7 @@
 </a>
 
 <p>
-  <em>
-    :us: <a href="./README.md">English version</a>
-  </em>
+  :us: <a href="./README.md">English version</a>
 </p>
 
 ### Olá Mundo!
