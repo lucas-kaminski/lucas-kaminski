@@ -54,7 +54,7 @@ Aqui uma lista de projetos que acho interessante compartilhar:
 | <a href="https://www.lucas-kaminski.me"> Personal website</a>                                                              | Um portfólio que eu desenvolvi para compartilhar meus projetos e experiências.                 |
 
 <p align="justify">
-Sinta-se confortável para entrar em contato, pode se conectar no <a href="https://www.linkedin.com/in/lucas-kaminski/">LinkedIn</a>, mandar uma mensagem no <a href="https://api.whatsapp.com/send/?phone=5541998119091&text=Estava+vendo+seu+perfil+no+github+e+gostaria+de+entrar+em+contato.&type=phone_number&app_absent=0">WhatsApp</a> ou um e-mail para <a href="mailto:lucas.kssilveira@gmail.com">lucas.kssilveira@gmail</a>, novas oportunidades e desafios são sempre bem-vindos.
+Sinta-se confortável para entrar em contato, pode se conectar no <a href="https://www.linkedin.com/in/lucas-kaminski/">LinkedIn</a>, mandar uma mensagem no <a href="https://api.whatsapp.com/send/?phone=5541998119091&text=Estava+vendo+seu+perfil+no+github+e+gostaria+de+entrar+em+contato.&type=phone_number&app_absent=0">WhatsApp</a> ou um e-mail para <a href="mailto:lucas.kssilveira@gmail.com">lucas.kssilveira@gmail</a>, novas oportunidades e desafios são sempre bem-vindos!
 </p>
 
 ---
