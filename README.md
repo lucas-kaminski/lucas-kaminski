@@ -43,12 +43,12 @@ As a developer, I have a Full Cycle performance in various systems, which enable
 </p>
 
 <p align="justify">
-Here is a list of projects in which I have been involved, and I would like to share them:
+Here is a list of projects in which I have been involved and would like to share.
 </p>
 
 | Project                                                                                                                    | Description                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | A Telegram bot used by thousands of students daily at Financial Move             |
+| <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | A Telegram bot used by thousands of students daily at Financial Move.            |
 | <a href="https://www.siemens.com/global/en/products/energy/grid-software/operation/grid-control.html">SP7 Grid Control</a> | Substation control software that manages the energy of several states in Brazil. |
 | <a href="https://www.lucas-kaminski.me">Personal website</a>                                                               | My own website, used to share my projects and experiences.                       |
 
