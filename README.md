@@ -1,55 +1,67 @@
 <a href="https://deep-fold.itch.io/pixel-planet-generator">
-  <img align="right" src="./img/planet.gif" width="170px" height="170px" alt="Quase um planeta Terra"/>
+  <img align="right" src="./img/planet.gif" width="170px" height="170px" alt="Planet gerated by the Pixel Planet Generator"/>
 </a>
 
-### Olá Mundo!
+<p>
+    :brazil: <a href="./README.portuguese.md">Versão em português</a>
+</p>
+
+### Hello World!
 
 <p>
 <em>
-Entusiasta de tecnologia, apaixonado por desenvolvimento, jogos e a vida do nosso planeta. #govegan;
+Tech entusiast, passionate about development, games and the life of our planet. #govegan;
 </em>
 </p>
 
 <p>
 <em>
-Dedicando meus estudos atualmente na linguagem Java;
+Actually studying Java focused on a back-end development;
 </em>
 </p>
 
 <p>
 <em>
-Product Owner & Desenvolvedor Full Stack  na <a href="https://financialmove.com.br/">Financial Move</a>;
+Product Owner & Full Stack Developer at <a href="https://financialmove.com.br/">Financial Move</a>;
 </em>
 </p>
 
 <p>
 <em>
-Graduando em <a href="https://unidombosco.edu.br/cursos/ead/ciencia-de-dados-e-inteligencia-artificial/">Ciência de Dados e Inteligência Artificial</a> na <a href="https://unidombosco.edu.br/">UNIDOMBOSCO</a>.
+Graduating in <a href="https://unidombosco.edu.br/cursos/ead/ciencia-de-dados-e-inteligencia-artificial/">Data Science and Artificial Intelligence</a> at <a href="https://unidombosco.edu.br/">UNIDOMBOSCO</a>.
 </em>
 </p>
 
 ---
 
 <p align="justify">
-Vivo diariamente a rotina de um Product Owner, lidando com a gestão de projetos, pessoas e processos de uma equipe de desenvolvimento em evolução e crescimento.
+I live daily the routine of a Product Owner, dealing with the management of projects, people and processes of a development team in evolution and growth.
 </p>
 
 <p align="justify">
-Enquanto  desenvolvedor, tenho atuação Full Cycle em diversos sistemas. Gosto da dinamicidade de poder trabalhar em todas as etapas de um projeto, desde a sua concepção para além de sua entrega, com a manutenção e suporte direto com o cliente.
+In a developer role, I have Full Cycle performance in several systems. I like the dynamism of being able to work in all stages of a project, from its conception beyond its delivery, with maintenance and direct support with the client.
 </p>
 
 <p align="justify">
-Aqui uma lista de projetos que acho interessante compartilhar.
+Here is a list of projects that I think are interesting to share:
 </p>
 
-| Projeto                                                                                                                    | Descrição                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | Bot no Telegram desenvolvido para a Financial Move.                                |
-| <a href="#">Cryptotraders</a>                                                                                              | ...                                                                                |
-| <a href="https://www.siemens.com/global/en/products/energy/grid-software/operation/grid-control.html">SP7 Grid Control</a> | Software de controle de subestações elétricas que atuei como desenvolvedor.        |
+| Projeto                                                                                                                    | Descrição                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | Telegram bot that I developed for Financial Move.                                         |
+| <a href="https://www.siemens.com/global/en/products/energy/grid-software/operation/grid-control.html">SP7 Grid Control</a> | Software for controlling electrical substations that I worked on as a back end developer. |
+| <a href="#js-pinned-items-reorder-container"> Pinned items</a>                                                             | A list of pinned repositories that I think are interesting to share.                      |
+| <a href="https://www.lucas-kaminski.me"> Personal website</a>                                                              | A portfolio website that I developed to share my projects and experiences.                |
 
 <p align="justify">
-Sinta-se confortável para entrar em contato, pode se conectar no <a href="https://www.linkedin.com/in/lucas-kaminski/">LinkedIn</a>, mandar uma mensagem no <a href="https://api.whatsapp.com/send/?phone=5541998119091&text=Estava+vendo+seu+perfil+no+github+e+gostaria+de+entrar+em+contato.&type=phone_number&app_absent=0">WhatsApp</a> ou um e-mail para <a href="mailto:lucas.kssilveira@gmail.com">lucas.kssilveira@gmail</a>, novas oportunidades e desafios são sempre bem-vindos.
+Feel free to get in touch, you can connect on <a href="https://www.linkedin.com/in/lucas-kaminski/">LinkedIn</a>, send a message on <a href="https://api.whatsapp.com/send/?phone=5541998119091">WhatsApp</a> or an e-mail to <a href="mailto:lucas.kssilveira@gmail.com">lucas.kssilveira@gmail</a>, new opportunities and challenges are always welcome.
 </p>
+
+---
+
+<p align="justify">
+If you want to know more about me, you can visit:
 
 ~ <a href="https://www.lucas-kaminski.me">lucas-kaminski.me</a>
+
+</p>
