@@ -16,13 +16,13 @@ Tech enthusiast, passionate about development, games, and the well-being of our 
 
 <p>
 <em>
-Studying Java with a focus on back-end development.
+Studying Java with a focus on back-end development;
 </em>
 </p>
 
 <p>
 <em>
-Product owner & full-stack developer at <a href="https://financialmove.com.br/">Financial Move</a>.
+Product owner & full-stack developer at <a href="https://financialmove.com.br/">Financial Move</a>;
 </em>
 </p>
 
@@ -35,7 +35,7 @@ Pursuing a degree in <a href="https://unidombosco.edu.br/cursos/ead/ciencia-de-d
 ---
 
 <p align="justify">
-Currently, I am facing the challenges of being a Product Owner to deliver the best possible product to the customer, dealing with project management, people and processes of a development team in a phase of evolution and growth.
+Currently, I am facing the challenges of being a product owner to deliver the best possible product to the customer, dealing with project management, people and processes of a development team in a phase of evolution and growth.
 </p>
 
 <p align="justify">
@@ -43,12 +43,12 @@ As a developer, I have a full-cycle performance in various systems, which enable
 </p>
 
 <p align="justify">
-Here is a list of projects in which I have been involved and would like to share.
+Here is a list of projects in which I have been involved and would like to share:
 </p>
 
 | Project                                                                                                                    | Description                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | A Telegram bot used by thousands of students daily at Financial Move.            |
+| <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | A Telegram bot used by thousands of traders on a daily basis.                    |
 | <a href="https://www.siemens.com/global/en/products/energy/grid-software/operation/grid-control.html">SP7 Grid Control</a> | Substation control software that manages the energy of several states in Brazil. |
 | <a href="https://www.lucas-kaminski.me">Personal website</a>                                                               | My own website, used to share my projects and experiences.                       |
 
