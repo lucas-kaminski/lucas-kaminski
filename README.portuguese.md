@@ -48,9 +48,9 @@ Aqui está uma lista de projetos em que participei do desenvolvimento ou que des
 
 | Projeto                                                                                                                    | Descrição                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | Um bot do Telegram utilizado por milhares de traders diariamente.                          |
+| <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | Um bot do Telegram utilizado por milhares de criptotraders diariamente.                    |
 | <a href="https://www.siemens.com/global/en/products/energy/grid-software/operation/grid-control.html">SP7 Grid Control</a> | Um software de controle de subestações que gerencia a energia de vários estados do Brasil. |
-| <a href="https://www.lucas-kaminski.me">Website pessoal</a>                                                                | Meu próprio site, usado para compartilhar projetos e experiências.                         |
+| <a href="https://www.lucas-kaminski.me">Website pessoal</a>                                                                | Meu próprio site, usado para organizar projetos e experiências.                            |
 
 <p align="justify">
 Sinta-se à vontade para entrar em contato. Você pode se conectar comigo no <a href="https://www.linkedin.com/in/lucas-kaminski/">LinkedIn</a>, enviar uma mensagem pelo <a href="https://api.whatsapp.com/send/?phone=5541998119091">WhatsApp</a> ou enviar um e-mail para <a href="mailto:lucas.kssilveira@gmail.com">lucas.kssilveira@gmail.com</a>. Novas oportunidades e desafios são sempre bem-vindos!

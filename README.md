@@ -48,9 +48,9 @@ Here is a list of projects in which I have been involved and would like to share
 
 | Project                                                                                                                    | Description                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | A Telegram bot used by thousands of traders on a daily basis.                    |
+| <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | A Telegram bot used by thousands of cryptotraders on a daily basis.              |
 | <a href="https://www.siemens.com/global/en/products/energy/grid-software/operation/grid-control.html">SP7 Grid Control</a> | Substation control software that manages the energy of several states in Brazil. |
-| <a href="https://www.lucas-kaminski.me">Personal website</a>                                                               | My own website, used to share my projects and experiences.                       |
+| <a href="https://www.lucas-kaminski.me">Personal website</a>                                                               | My own website, used to orgniza my projects and experiences.                     |
 
 <p align="justify">
 Feel free to get in touch. You can connect with me on <a href="https://www.linkedin.com/in/lucas-kaminski/">LinkedIn</a>, send me a message on <a href="https://api.whatsapp.com/send/?phone=5541998119091">WhatsApp</a>, or send an email to <a href="mailto:lucas.kssilveira@gmail.com">lucas.kssilveira@gmail.com</a>. I'm always open to new opportunities and challenges!
