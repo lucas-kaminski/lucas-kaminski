@@ -22,7 +22,7 @@ Studying Java with a focus on back-end development.
 
 <p>
 <em>
-Product Owner & Full Stack Developer at <a href="https://financialmove.com.br/">Financial Move</a>.
+Product owner & full-stack developer at <a href="https://financialmove.com.br/">Financial Move</a>.
 </em>
 </p>
 
@@ -39,7 +39,7 @@ Currently, I am facing the challenges of being a Product Owner to deliver the be
 </p>
 
 <p align="justify">
-As a developer, I have a Full Cycle performance in various systems, which enables me to work dynamically across all stages of a project, from its inception to its delivery, including maintenance and direct client support.
+As a developer, I have a full-cycle performance in various systems, which enables me to work dynamically across all stages of a project, from its inception to its delivery, including maintenance and direct client support.
 </p>
 
 <p align="justify">

@@ -22,7 +22,7 @@ Estudando Java com foco em desenvolvimento back-end;
 
 <p>
 <em>
-Product Owner & Desenvolvedor Full Stack na <a href="https://financialmove.com.br/">Financial Move</a>;
+Product owner & desenvolvedor full-stack na <a href="https://financialmove.com.br/">Financial Move</a>;
 </em>
 </p>
 
@@ -39,7 +39,7 @@ Atualmente enfrentando os desafios de um Product Owner para entregar o melhor pr
 </p>
 
 <p align="justify">
-Como desenvolvedor, tenho atuação Full Cycle em diversos sistemas. Gosto da dinâmica de poder trabalhar em todas as etapas de um projeto, desde sua concepção até a entrega, incluindo manutenção e suporte direto ao cliente.
+Como desenvolvedor, tenho atuação full-cycle em diversos sistemas. Gosto da dinâmica de poder trabalhar em todas as etapas de um projeto, desde sua concepção até a entrega, incluindo manutenção e suporte direto ao cliente.
 </p>
 
 <p align="justify">
@@ -48,9 +48,9 @@ Aqui está uma lista de projetos em que participei do desenvolvimento ou que des
 
 | Projeto                                                                                                                    | Descrição                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | Um bot no Telegram usado diariamente por milhares de alunos na Financial Move.              |
+| <a href="https://t.me/FinancialMoveBot">Financial Move Bot 2.0</a>                                                         | Um bot no Telegram usado diariamente por milhares de alunos na Financial Move.             |
 | <a href="https://www.siemens.com/global/en/products/energy/grid-software/operation/grid-control.html">SP7 Grid Control</a> | Um software de controle de subestações que gerencia a energia de vários estados do Brasil. |
-| <a href="https://www.lucas-kaminski.me">Website pessoal</a>                                                                | Meu próprio site, usado para compartilhar projetos e experiências.                    |
+| <a href="https://www.lucas-kaminski.me">Website pessoal</a>                                                                | Meu próprio site, usado para compartilhar projetos e experiências.                         |
 
 <p align="justify">
 Sinta-se à vontade para entrar em contato. Você pode se conectar comigo no <a href="https://www.linkedin.com/in/lucas-kaminski/">LinkedIn</a>, enviar uma mensagem pelo <a href="https://api.whatsapp.com/send/?phone=5541998119091">WhatsApp</a> ou enviar um e-mail para <a href="mailto:lucas.kssilveira@gmail.com">lucas.kssilveira@gmail.com</a>. Novas oportunidades e desafios são sempre bem-vindos!
