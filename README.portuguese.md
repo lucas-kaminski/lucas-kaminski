@@ -16,7 +16,7 @@ Entusiasta de tecnologia, apaixonado por desenvolvimento, jogos e pela vida do n
 
 <p>
 <em>
-Estudando Java com foco em desenvolvimento back-end;
+Estudando Java com foco em desenvolvimento back-end e aprendendo holandês para me tornar um expatriado;
 </em>
 </p>
 
