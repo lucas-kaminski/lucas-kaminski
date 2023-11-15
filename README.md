@@ -16,7 +16,7 @@ Tech enthusiast, passionate about development, games, and the well-being of our 
 
 <p>
 <em>
-Studying Java with a focus on back-end development and learning Dutch, preparing to become an expat;
+Learning Dutch, preparing to become an expat;
 </em>
 </p>
 
