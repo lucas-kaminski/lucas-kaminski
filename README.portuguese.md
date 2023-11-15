@@ -16,7 +16,7 @@ Entusiasta de tecnologia, apaixonado por desenvolvimento, jogos e pela vida do n
 
 <p>
 <em>
-Estudando Java com foco em desenvolvimento back-end e aprendendo holandês para me tornar um expatriado;
+Aprendendo holandês para me tornar um expatriado;
 </em>
 </p>
 
@@ -28,7 +28,7 @@ Product owner & desenvolvedor full-stack na <a href="https://financialmove.com.b
 
 <p>
 <em>
-Graduando em <a href="https://unidombosco.edu.br/cursos/ead/ciencia-de-dados-e-inteligencia-artificial/">Ciência de Dados e Inteligência Artificial</a> na <a href="https://unidombosco.edu.br/">UNIDOMBOSCO</a>.
+Graduando <a href="https://unidombosco.edu.br/cursos/ead/ciencia-de-dados-e-inteligencia-artificial/">Ciência de Dados e Inteligência Artificial</a> na <a href="https://unidombosco.edu.br/">UNIDOMBOSCO</a>.
 </em>
 </p>
 
@@ -39,11 +39,11 @@ Atualmente enfrentando os desafios de um Product Owner para entregar o melhor pr
 </p>
 
 <p align="justify">
-Como desenvolvedor, tenho atuação full-cycle em diversos sistemas. Gosto da dinâmica de poder trabalhar em todas as etapas de um projeto, desde sua concepção até a entrega, incluindo manutenção e suporte direto ao cliente.
+Como desenvolvedor, tenho atuação full-cycle em diversos sistemas. Gosto da dinamicidade de poder trabalhar em todas as etapas de um projeto, desde sua concepção até a entrega, incluindo manutenção e suporte direto ao cliente.
 </p>
 
 <p align="justify">
-Aqui está uma lista de projetos em que participei do desenvolvimento ou que desenvolvi por conta própria e que considero interessante compartilhar:
+Aqui está uma lista de projetos em que participei do desenvolvimento e que considero interessante compartilhar:
 </p>
 
 | Projeto                                                                                                                    | Descrição                                                                                  |
