@@ -58,6 +58,6 @@ If you want to know more about me, you can visit:
 
 ~ <a href="https://www.goodreads.com/user/show/107870527-lucas-kaminski">goodreads.com</a>
 
-~ <a href="https://open.spotify.com/user/12100191517">sporify.com</a>
+~ <a href="https://open.spotify.com/user/12100191517">spotify.com</a>
 
 </p>
