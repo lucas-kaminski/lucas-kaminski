@@ -54,10 +54,5 @@ Feel free to get in touch. You can connect with me on <a href="https://www.linke
 <p align="justify">
 If you want to know more about me, you can visit:
 
-~ <a href="https://www.lucas-kaminski.me">lucas-kaminski.me</a>
-
-~ <a href="https://www.goodreads.com/user/show/107870527-lucas-kaminski">goodreads.com</a>
-
-~ <a href="https://open.spotify.com/user/12100191517">spotify.com</a>
-
+<a href="https://www.lucas-kaminski.me">lucas-kaminski.me</a> | <a href="https://psnprofiles.com/kaminskizada">psn</a> | <a href="https://open.spotify.com/user/12100191517">spotify</a> | <a href="https://www.goodreads.com/user/show/107870527-lucas-kaminski">goodreads</a> | <a href="https://www.duolingo.com/profile/lucas-kaminski">duolingo</a>  
 </p>
