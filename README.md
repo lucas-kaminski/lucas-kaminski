@@ -2,8 +2,8 @@
 
 **About:**
 
-- Founder @ [meu.software](meu.software)
-- Sênior Full‑stack Developer @ [Financial Move](financialmove.com.br/)
+- Founder @ [meu.software](https://meu.software)
+- Sênior Full‑stack Developer @ [Financial Move](https://financialmove.com.br/)
 - Graduated in Data Science & Artificial Intelligence at UNIDOMBOSCO
 - Open to new projects & collaborations
 
@@ -16,5 +16,5 @@
 **Contacts:**
 
 - [E-mail](mailto:contact@lucas-kaminski.dev)
-- [WhatsApp](wa.me/5541998119091)
+- [WhatsApp](https://wa.me/5541998119091)
 - [LinkedIn](https://linkedin/in/lucas-kaminski)
