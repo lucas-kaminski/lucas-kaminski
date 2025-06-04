@@ -2,19 +2,16 @@
 
 **About:**
 
-- Founder @ [meu.software](https://meu.software)
-- Sênior Full‑stack Developer @ [Financial Move](https://financialmove.com.br/)
-- Graduated in Data Science & Artificial Intelligence at UNIDOMBOSCO
-- Open to new projects & collaborations
-
-**Know more:**
-
-- [.me](https://lucas-kaminski.me)
-- [.dev](https://lucas-kaminski.dev)
-- [.com](https://lucas-kaminski.com)
+- Owner & Developer @ [meu.software](https://meu.software/)
+- Sênior Backend Engineer @ [Bento](https://bento.ky/)
+- Graduated in Data Science & Artificial Intelligence @ [UNIDOMBOSCO](https://unidombosco.edu.br/)
 
 **Contacts:**
 
-- [E-mail](mailto:contact@lucas-kaminski.dev)
-- [WhatsApp](https://wa.me/5541998119091)
-- [LinkedIn](https://linkedin/in/lucas-kaminski)
+[E-mail](mailto:contact@lucas-kaminski.dev) • [WhatsApp](https://wa.me/5541998119091) • [LinkedIn](https://linkedin/in/lucas-kaminski)
+
+**Know more:**
+
+[lucas-kaminski.me](https://lucas-kaminski.me) • [lucas-kaminski.dev](https://lucas-kaminski.dev) • [lucas-kaminski.com](https://lucas-kaminski.com)  
+
+I'm open to new projects and collaborations, feel free to reach out!
