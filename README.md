@@ -1,19 +1,11 @@
 # Lucas Kaminski
 
-**About:**
+Senior full-cycle engineer building systems for startups and SaaS projects.
 
-Senior full-cycle engineer crafting systems built to survive in the real world.
+- Owner @ [meu.software](https://meu.software/)
+- Senior Backend Engineer @ [Bento](https://bento.ky/)
+- BSc in Data Science & AI @ [UNIDOMBOSCO](https://unidombosco.edu.br/)
 
-- Owner & Developer @ [meu.software](https://meu.software/)
-- Sênior Backend Engineer @ [Bento](https://bento.ky/)
-- Graduated in Data Science & Artificial Intelligence @ [UNIDOMBOSCO](https://unidombosco.edu.br/)
+[Portfolio](https://lucas-kaminski.dev) · [LinkedIn](https://linkedin.com/in/lucas-kaminski) · [E-mail](mailto:contact@lucas-kaminski.dev) · [WhatsApp](https://wa.me/5541998119091)
 
-Open to new projects and collaborations.
-
-**Know more:**
-
-[Portfolio](https://lucas-kaminski.dev)
-
-**Contact me:**
-
-[E-mail](mailto:contact@lucas-kaminski.dev) • [WhatsApp](https://wa.me/5541998119091) • [LinkedIn](https://linkedin/in/lucas-kaminski)
+Simplicity over complexity.
